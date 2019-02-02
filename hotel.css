@@ -1,0 +1,165 @@
+/*general*/
+*
+{
+   margin: 0;
+    padding: 0;
+}
+body
+{
+  font-family: arial, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+}
+h1
+{
+    font-family: 'crete round' , serif;
+    font-size: 50px;
+    color: #444;
+    margin-top: 32px;
+    margin-left: 15px;
+}
+h2{
+    color: red;
+    font-size: 55px;
+    
+    
+        
+}
+ul
+{
+    list-style: none;
+}
+a
+{
+    text-decoration: none;
+    color:#444;
+}
+.web
+{
+    width: 
+    margin: 0 auto;
+    padding: 0 10px;
+    
+    padding-bottom:20px ;
+    
+}
+.red
+{
+    color: red;
+    
+}
+
+
+
+/*header*/
+
+header
+{
+  height: 120px;
+    background-color:#4ffa00;
+    
+}
+header h1
+{
+    float: left;
+}
+header nav
+{
+    float: right;
+    margin-top: 50px;
+    
+}
+header nav ul li
+{
+    display: inline-block;
+    float: left;
+}
+
+header nav ul li a
+{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+/*partie1*/
+#partie1
+{
+   height: 580px;
+   background:url(images/image2.jpg.jpg) no-repeat center;
+   
+}
+#partie1 h2
+{
+   font-weight:200px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 150px 0 40px 0; 
+    margin-bottom: 80px;
+    text-decoration: yellow;
+}
+#partie1 p
+{
+  
+}
+.buton
+{
+   display: block;
+    width: 150px;
+    height: 50px;
+    background-color: blue;
+    text-align: center;
+    margin: auto;
+    color: #fff;
+    font-size: 23px;
+    border-radius: 10px;
+    
+}
+#partie1 form 
+{
+text-transform: uppercase;
+    word-spacing: 20px;
+    text-align: center;
+
+}
+#partie2
+{
+
+}
+
+#partie3
+{
+  font-weight: 100px;
+    padding-top: 50px;
+     
+}
+
+
+#partie4
+{
+    
+}
+footer
+{
+    font-weight: 35px;
+}
+footer p
+{
+    font-size: 20px;
+    margin-left: 10px;
+    
+}
+footer h3
+{
+    text-align: center;
+   padding-top: 25px;
+    padding-bottom: 25px;
+    text-transform: lowercase;
+    color: red;
+    
+    
+}
+footer form
+{
+    margin-left: 50px;
+}
